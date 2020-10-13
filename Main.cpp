@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
 	// max individuos por generacion
 	int max = atoi(argv[4]);
 
-	// provavilidad de cruza
+	// probabilidad de cruza
 	float pCruza = ((float)atoi(argv[5]) / (float)100);
 
 	// probabilidad de mutacion
