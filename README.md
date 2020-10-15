@@ -10,15 +10,3 @@ Entrada ejemplo:
 
 a.exe 8 10 1 20 50 5 10000 300 
 
-Solucion: 
-
-* - - - - - - -
-- - - - - - * -
-- - - * - - - -
-- - - - - * - -
-- - - - - - - *
-- * - - - - - -
-- - - - * - - -
-- - * - - - - -
-
-iteracion: 504 - Solucion encontrada!!
