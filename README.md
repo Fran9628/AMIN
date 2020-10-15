@@ -1,6 +1,6 @@
-# AMIN
+# AMIN TAREA N°1 N-REINAS
 
-Para comppilar el codigo fuente se debe usar el siguiente comando:
+Para compilar el codigo fuente se debe usar el siguiente comando:
 "g++ Algoritmo.cpp Main.cpp -Wall"
 
 Para ejecutar el programa utilizar:
